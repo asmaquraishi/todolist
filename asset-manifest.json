@@ -1,0 +1,15 @@
+{
+  "main.css": "/todolist/static/css/main.ec1d8f72.chunk.css",
+  "main.js": "/todolist/static/js/main.4417f4c1.chunk.js",
+  "main.js.map": "/todolist/static/js/main.4417f4c1.chunk.js.map",
+  "runtime~main.js": "/todolist/static/js/runtime~main.a87775f5.js",
+  "runtime~main.js.map": "/todolist/static/js/runtime~main.a87775f5.js.map",
+  "static/js/2.28c3bb1d.chunk.js": "/todolist/static/js/2.28c3bb1d.chunk.js",
+  "static/js/2.28c3bb1d.chunk.js.map": "/todolist/static/js/2.28c3bb1d.chunk.js.map",
+  "index.html": "/todolist/index.html",
+  "precache-manifest.b8ecf320c31220a0442435910662c6bf.js": "/todolist/precache-manifest.b8ecf320c31220a0442435910662c6bf.js",
+  "service-worker.js": "/todolist/service-worker.js",
+  "static/css/main.ec1d8f72.chunk.css.map": "/todolist/static/css/main.ec1d8f72.chunk.css.map",
+  "static/media/logo.svg": "/todolist/static/media/logo.5d5d9eef.svg",
+  "static/media/index.css": "/todolist/static/media/marble.15296ef3.jpg"
+}
