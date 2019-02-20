@@ -81,11 +81,11 @@ class App extends Component {
     return (
     
     <div className="mainform">
-      <h2 className="moment">{moment().format('MMMM Do YYYY, h:mm:ss a')}</h2>
+      <h2 className="moment">{moment().format('MMMM Do YYYY, h:mm:ss A')}</h2>
           <header><h1> -TODOS- </h1></header>
          
         <form onSubmit={this.addList}>
-          <input className="input" type='text' name='title' placeholder="Things need to be done" onChange={this.updateForm} value={this.state.formData.title}></input>
+          <input className="input" type='text' name='title' placeholder="Things needs to be done" onChange={this.updateForm} value={this.state.formData.title}></input>
           <button className="btnadd" type='submit'>Add</button>
         </form>
 

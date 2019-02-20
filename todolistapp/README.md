@@ -1,6 +1,6 @@
 # To Do List React App
 
- ![alt text](src/screenshot-todos.png)
+ ![alt text](src/listScreenshot.png)
       
 
 # About the project:
@@ -22,7 +22,7 @@ Create to-do list online to keep your tasks organized.
 - practicing react native app
 
 # Future development planning:
-#- add features:
+# - add features:
 - Make To Do List responsive
 - Clear all items
 - Clear only completed items
