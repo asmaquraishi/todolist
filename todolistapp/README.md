@@ -1,6 +1,6 @@
-# Tic Tac Toe Game
+# To Do List React App
 
- ![alt text](screenshot-todos.png)
+ ![alt text](src/screenshot-todos.png)
       
 
 # About the project:
@@ -11,18 +11,18 @@ Create to-do list online to keep your tasks organized.
 - Add a new item to the list
 - Mark the item as complete
 - Remove an item from the list
-- Use a 3rd party library
+- Use a 3rd party library (moment)
 
 # Difficulties:
 - difficulites with removeList function() it was removing the elements randomly!
-- tried to make the app responsive but it dose not worked correctly 
+- tried to make the app responsive but it dose not worked correctly.
 
 # Favourite working part:
 - work on the CSS 
 - practicing react native app
 
 # Future development planning:
-# add features:
+#- add features:
 - Make To Do List responsive
 - Clear all items
 - Clear only completed items
