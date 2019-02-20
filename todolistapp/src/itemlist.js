@@ -15,10 +15,7 @@ class Itemlist extends Component {
                 </form> 
                 <button className="clearbtn" onClick={() => this.props.removelist(this.props.index)}>✖️</button>
             </div>
-        );
-             
-    }
-
-}
+      );}
+ }
 
   export default Itemlist;
